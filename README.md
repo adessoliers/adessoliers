@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Alexandre Dessoliers
+### Hi there 👋
 ### 🔭 I’m currently working on **building SQL databases**
 ### 🌱 I’m currently learning **SQL / Tableau / Python**
 ### 👯 I’m looking to collaborate on **building SQL databases for analytical queries and for reporting**
