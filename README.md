@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github!
+###
 ### 🔭 I’m currently working on **building SQL databases**
 ### 🌱 I’m currently learning **SQL / Tableau / Python**
 ### 👯 I’m looking to collaborate on **building SQL databases for analytical queries and for reporting**
