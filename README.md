@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my Github!
 ###
 ### 🔭 I’m currently working on **creating insightful queries and visualizations**
-### 🌱 I’m currently learning **SQL / BI tools / Python**
+### 🌱 I’m currently learning **SQL / Python / Tableau**
 
 <!--
 ### 👯 I’m looking to collaborate on **querying datasets**
